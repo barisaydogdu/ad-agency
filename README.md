@@ -55,7 +55,7 @@ AdAgency is a comprehensive advertising agency management system built with Go a
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/AdAgency.git
+git clone https://github.com/barisaydogdu/AdAgency.git
 cd AdAgency
 
 # Create a PostgreSQL database and update the .env file with your database credentials
