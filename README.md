@@ -51,6 +51,8 @@ AdAgency is a comprehensive advertising agency management system built with Go a
 - PostgreSQL 12 or higher
 - Git
 
+Go backend project is coming soon! 🚀
+
 ## Installation
 
 1. Clone the repository
